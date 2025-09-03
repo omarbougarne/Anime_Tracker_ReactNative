@@ -1,5 +1,12 @@
-Anime Tracker Mobile App
-A React Native mobile application for tracking anime series built with Expo, Redux, and TypeScript.
+## 📱 Mobile Application
+
+This project has a companion mobile application built with React Native/Expo.
+
+- **Repository**: [Anime Tracker Mobile](https://github.com/omarbougarne/anime-tracker-mobile)
+- **Tech Stack**: React Native, Expo, Redux, TypeScript
+- **Features**: Authentication, anime browsing, watchlist management
+
+The mobile app connects to the same API endpoints as the web client.
 
 📱 Features
 User authentication (login/register)
